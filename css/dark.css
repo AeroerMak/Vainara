@@ -1,0 +1,225 @@
+body {
+	color: #A3A3A3;
+	background-color: #0A0A0A;
+}
+h1, h2, h3, h4, h5, h6 {
+	color: #fff;
+}
+.ot-heading.is-dots:before {
+	border-bottom-color: #fff;
+}
+.ot-progress, .ot-progress .progress-bar, .ot-counter h6 {
+	color: #fff;
+}
+.ot-progress .progress-bar, .ot-progress .progress-bar:after {
+	background-color: #939393;
+}
+.projects-grid.style-2 .portfolio-info .portfolio-info-inner .portfolio-cates a:hover {
+	color: #fff;
+}
+.post-box .post-inner {
+	background: transparent;
+}
+.section-team-list {
+  background-image: url(https://via.placeholder.com/1920x1577.png);
+}
+.owl-theme .owl-dots .owl-dot.active {
+	border-color: #fff;
+}
+.owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span, .owl-theme .owl-dots .owl-dot span {
+	background-color: #fff;
+}
+.icon-bg-1 {
+  background-image: url(https://via.placeholder.com/715x628.png);
+}
+.icon-bg-1:hover {
+  background-image: url(https://via.placeholder.com/715x628.png);
+}
+.icon-box h5 a {
+  color: #fff;
+}
+.btn-details {
+  opacity: 0.9;
+  color: #fff;
+}
+.btn-details:before {
+  background: #505050;
+}
+.icon-box--bg-img:hover h5 a {
+  color: #1a1a1a;
+}
+.icon-box--bg-img:hover .btn-details {
+  color: #1a1a1a;
+}
+.icon-box--bg-img:hover .btn-details:before {
+  background: #dddddd;
+}
+.icon-box--bg-img.icon-box--is-line-hover:hover:after,
+.icon-box--bg-img.icon-box--is-line-hover:hover:before {
+  background-color: #fff
+}
+.icon-bg-2:hover {
+  background-image: url(https://via.placeholder.com/715x628.png);
+}
+.icon-bg-2 {
+  background-image: url(https://via.placeholder.com/715x628.png);
+}
+.icon-bg-3:hover {
+  background-image: url(https://via.placeholder.com/715x628.png);
+}
+.icon-bg-3 {
+  background-image: url(https://via.placeholder.com/715x628.png);
+}
+.banner-3 {
+  background-image: url(https://via.placeholder.com/1648x1142.png);
+}
+.icon-box .icon-main {
+  color: #fff;
+}
+.our-skill-3 {
+  background-image: url(https://via.placeholder.com/827x886.png);
+}
+.icon-bg-4 {
+  background-image: url(https://via.placeholder.com/715x628.png);
+}
+.icon-bg-4:hover {
+  background-image: url(https://via.placeholder.com/715x628.png);
+}
+.icon-bg-5 {
+  background-image: url(https://via.placeholder.com/715x628.png);
+}
+.icon-bg-5:hover {
+  background-image: url(https://via.placeholder.com/715x628.png);
+}
+.icon-bg-6 {
+  background-image: url(https://via.placeholder.com/715x628.png);
+}
+.icon-bg-6:hover {
+  background-image: url(https://via.placeholder.com/715x628.png);
+}
+.ot-pricing-table.is-featured .inner-table {
+  background-color: #0A0A0A;
+}
+.is-featured .layer-behind {
+  background-color: #1A1A1A;
+}
+.ot-pricing-table.is-featured .inner-table {
+  border-color: #292929;
+}
+.ot-pricing-table .inner-table {
+  border-color: #fff;
+}
+.ot-pricing-table .inner-table h2 {
+  color: #1A1A1A;
+}
+.testi-slide-block-3 {
+  background-image: url(https://via.placeholder.com/869x640.png);
+}
+.owl-theme .owl-nav [class*='owl-'] {
+  color: #919191;
+}
+.owl-theme .owl-nav [class*='owl-']:hover {
+  color: #fff;
+}
+.blog-studio-dark {
+  background-image: url(https://via.placeholder.com/530x503.png);
+  background-position: bottom right;
+  background-repeat: no-repeat;
+}
+.nav-home-3.tparrows, .nav-home-5.tparrows, .nav-home-3.tparrows:hover, .nav-home-5.tparrows:hover {
+  background-color: #1a1a1a;
+}
+.nav-home-3.tparrows:before, .nav-home-5.tparrows:before {
+  color: #919191;
+}
+.nav-home-3.tparrows:hover:before, .nav-home-5.tparrows:hover:before {
+  color: #fff;
+}
+.topbar-socials.list-social a {
+  color: #fff;
+}
+.topbar-info li, .topbar-info li a {
+  color: #fff;
+}
+.banner-4 {
+  background-image: url(https://via.placeholder.com/1920x808.png);
+}
+.banner-4 h1 {
+  position: absolute;
+  left: -109px;
+  top: -40%;
+  color: #6EC1E400;
+  font-family: "Titillium Web", Sans-serif;
+  font-size: 170px;
+  font-weight: 900;
+  text-transform: uppercase;
+  letter-spacing: 0.4em;
+  -webkit-text-stroke-width: 1px;
+  stroke-width: 1px;
+  -webkit-text-stroke-color: #FFFFFF33;
+  stroke: #FFFFFF33;
+  text-wrap: nowrap;
+}
+.video-popup.s-dark .btn-play {
+  background-color: #fff;
+  color: #1A1A1A;
+}
+.video-popup.s-dark .btn-play:before {
+  background-color: #FFFFFF;
+}
+.skill-4, .testi-4 {
+  background-image: url('https://via.placeholder.com/1920x200.png');
+}
+.about-team {
+  background-image: url(https://via.placeholder.com/1920x975.png);
+}
+.client-area-5 {
+  background-image: none;
+}
+.clients-slide .img-item img, .clients-slide-medium .img-item img {
+  width: auto;
+  opacity: .7;
+  filter: brightness(100%) contrast(100%) saturate(100%) blur(0) hue-rotate(0deg);
+}
+.ot-accordions .acc-item {
+  background-color: #0A0A0A;
+}
+.ot-accordions .acc-item .acc-toggle, .ot-accordions .acc-item .acc-toggle i {
+  color: #fff;
+}
+.about-img-5 img {
+  filter: brightness(50%) contrast(100%) saturate(20%) blur(0px) hue-rotate(0deg);
+}
+.counter-area-5 {
+  background-image: none;
+}
+.img-sec-bot img {
+  filter: brightness(50%) contrast(100%) saturate(20%) blur(0px) hue-rotate(0deg);
+}
+.sec-blog-onepage {
+  background-image: url(https://via.placeholder.com/1920x1281.png);
+  background-attachment: fixed;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.sec-blog-onepage .overlay {
+  background-color: #1A1A1A;
+  opacity: 0.5;
+  z-index: 0;
+}
+.wpcf7 .main-form input, .wpcf7 .main-form textarea {
+  background-color: transparent;
+  color: #A3A3A3;
+}
+.wpcf7 .main-form input::placeholder, .wpcf7 .main-form textarea::placeholder {
+  color: #A3A3A3;
+}
+input[type=text], input[type=email], input[type=url], input[type=password], input[type=search], input[type=number], input[type=tel], input[type=range], input[type=date], input[type=month], input[type=week], input[type=time], input[type=datetime], input[type=datetime-local], input[type=color], textarea {
+  border-bottom-color: #292929;
+}
+.project_filters .btn-details:hover, .project_filters li a:focus, .project_filters li a:active {
+  color: #fff;
+}
+.pricing-wrap-title {
+  background-color: #0A0A0A;
+}

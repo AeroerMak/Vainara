@@ -1,0 +1,4 @@
+19/03/2024 - version 1.1
+- New: Add new 8 home page.
+- New file: index-dark.html, index-2-light.html, index-3-dark.html, index-4-dark.html, index-5-dark.html, index-6-dark.html, index-sidenav-light.html, one-page-dark.html,dark.css, light.css.
+- Updated file: style.css and all html files.
