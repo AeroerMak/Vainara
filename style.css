@@ -7236,7 +7236,7 @@ section {
     background-image: url(https://via.placeholder.com/1920x500.png);
 }
 .pheader-about {
-    background-image: url(https://via.placeholder.com/1920x500.png);
+    background-image: url(images/aboutcompany/bg01.png);
 }
 .pheader-process {
     background-image: url(https://via.placeholder.com/1920x500.png);
@@ -7478,7 +7478,7 @@ section {
     margin-bottom: 40px;
 }
 .our-philosophy {
-    background-image: url(https://via.placeholder.com/1920x705.png);
+    background-image: url(images/aboutcompany/cover.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -7649,7 +7649,7 @@ section {
 }
 /* Our process */
 .our-process {
-    background-image: url(https://via.placeholder.com/1920x1612.png);
+    background-image: url(images/aboutcompany/ourprocess.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
