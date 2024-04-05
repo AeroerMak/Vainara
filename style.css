@@ -74,7 +74,7 @@ hr {
  * 2. Correct the odd `em` font sizing in all browsers.
  */
 pre {
-  font-family: monospace, monospace;
+  font-family: 'Times New Roman', Times, serif, 'Times New Roman', Times, serif;
   /* 1 */
   font-size: 1em;
   /* 2 */
@@ -117,7 +117,7 @@ strong {
 code,
 kbd,
 samp {
-  font-family: monospace, monospace;
+  font-family: 'Times New Roman', Times, serif, 'Times New Roman', Times, serif;
   /* 1 */
   font-size: 1em;
   /* 2 */
@@ -170,7 +170,7 @@ input,
 optgroup,
 select,
 textarea {
-  font-family: inherit;
+  font-family: 'Times New Roman', Times, serif;
   /* 1 */
   font-size: 100%;
   /* 1 */
@@ -364,7 +364,7 @@ select,
 optgroup,
 textarea {
   color: #555555;
-  font-family: "Raleway", sans-serif;
+  font-family: "Times New Roman", sans-serif;
   font-size: 16px;
   line-height: 1.875;
   font-weight: 400;
@@ -377,7 +377,7 @@ body.dark-scheme {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Titillium Web", sans-serif;
+  font-family: "Times New Roman", sans-serif;
   font-weight: 400;
   line-height: 1.4;
   margin: 0 0 20px;
@@ -426,12 +426,12 @@ blockquote {
   font-weight: 400;
   padding: 50px 160px 0;
   position: relative;
-  font-family: "Titillium Web", sans-serif;
+  font-family: "Times New Roman", sans-serif;
   color: #1a1a1a;
   text-align: center;
 }
 blockquote cite {
-  font-family: "Josefin Sans", sans-serif;
+  font-family: "Times New Roman", sans-serif;
   text-transform: uppercase;
   font-size: 14px;
   font-weight: 600;
