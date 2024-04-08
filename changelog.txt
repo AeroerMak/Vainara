@@ -2,8 +2,3 @@
 - New: Add new 8 home page.
 - New file: index-dark.html, index-2-light.html, index-3-dark.html, index-4-dark.html, index-5-dark.html, index-6-dark.html, index-sidenav-light.html, one-page-dark.html,dark.css, light.css.
 - Updated file: style.css and all html files.
-
-
-
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15935.31462540566!2d101.6592705!3d3.139906!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31cc49dc2de80a05%3A0xbdf02dc12b84b3f2!2svia%20NARA%20(Interior%20Styling%20House)!5e0!3m2!1sen!2smy!4v1712338934132!5m2!1sen!2smy" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
