@@ -7244,6 +7244,9 @@ section {
 .pheader-studio {
     background-image: url(images/magazine/bg01.png);
 }
+.pheader-blog {
+    background-image: url(images/magazine/blogbg01.png);
+}
 .pheader-typo {
     background-image: url(https://via.placeholder.com/1920x500.png);
 }
