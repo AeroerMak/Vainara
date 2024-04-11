@@ -6710,7 +6710,7 @@ div.elementor-widget-heading .elementor-heading-title {
   right: 0;
   width: 310px;
   height: 100vh;
-  background: #2a2a2a;
+  background: #531510;
   overflow-x: hidden;
   z-index: 9999;
   -webkit-transform: translateX(100%);
@@ -6900,7 +6900,7 @@ div.elementor-widget-heading .elementor-heading-title {
   -moz-transition: all 0.3s linear;
   -o-transition: all 0.3s linear;
   -ms-transition: all 0.3s linear;
-  background: #2f2f2f;
+  background: #531510;
   text-align: center;
 }
 .side-panel.on-left {
